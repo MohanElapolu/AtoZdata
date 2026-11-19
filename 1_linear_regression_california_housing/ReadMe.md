@@ -31,7 +31,8 @@ We will have 80-20 split for training and testing <br>
 **y_test**: 4,128 observations (4,128, ) <br>
 
 ## Linear Regression Mathematics
-polynomial equation 
+Polynomial equation: 
+
 $$
 \hat{y} = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_8 x_8
 $$
