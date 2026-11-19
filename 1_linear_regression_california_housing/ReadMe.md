@@ -72,6 +72,7 @@ Root Mean Square Error (RMSE) <br>
 $R^2$ (Determines how well the model is fit to the data set) <b> 
 
 ### Inference Pipeline
+
 While inference if user inputs have only seven features instead of eight. <br>
 How will you handle the missing value ? <br>
 For instance, the MedInc is missing. <br>
