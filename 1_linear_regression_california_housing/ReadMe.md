@@ -30,7 +30,7 @@ We will have 80-20 split for training and testing <br>
 **X_test**: 4,128 observations (4,128, 8) <br>
 **y_test**: 4,128 observations (4,128, ) <br>
 
-## Linear Regression Mathematics
+### Linear Regression Mathematics
 Polynomial equation: 
 
 $$
