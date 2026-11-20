@@ -69,7 +69,9 @@ Where:
 ### Metrics
 Mean Absolute Error (MAE) <br>
 Root Mean Square Error (RMSE) <br>
-$R^2$ (Determines how well the model is fit to the data set) <b> 
+$R^2$ (Determines how well the model is fit to the data set) <br>
+
+**Note**: *There is a difference in outlier sensitivity between MAE and RMSE. RMSE reacts strongly to extreme values compared to MAE. So, a large gap between RMSE and MAE often indicates outliers in the data.* <br>
 
 ### Inference Pipeline
 
